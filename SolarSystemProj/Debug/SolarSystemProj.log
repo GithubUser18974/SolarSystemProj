@@ -1,0 +1,17 @@
+﻿Build started 5/6/2018 1:02:14 AM.
+     1>Project "C:\Users\Mohamed_Araby\Documents\Visual Studio 2013\Projects\SolarSystemProj\SolarSystemProj\SolarSystemProj.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\mohamed_araby\documents\visual studio 2013\projects\solarsystemproj\solarsystemproj\main.cpp(85): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mohamed_Araby\Documents\Visual Studio 2013\Projects\SolarSystemProj\Debug\SolarSystemProj.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Mohamed_Araby\Documents\Visual Studio 2013\Projects\SolarSystemProj\Debug\SolarSystemProj.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mohamed_Araby\Documents\Visual Studio 2013\Projects\SolarSystemProj\Debug\SolarSystemProj.lib" /MACHINE:X86 Debug\Enemy.obj
+         Debug\ImageLoader.obj
+         Debug\main.obj
+         Debug\Planets.obj
+         SolarSystemProj.vcxproj -> C:\Users\Mohamed_Araby\Documents\Visual Studio 2013\Projects\SolarSystemProj\Debug\SolarSystemProj.exe
+     1>Done Building Project "C:\Users\Mohamed_Araby\Documents\Visual Studio 2013\Projects\SolarSystemProj\SolarSystemProj\SolarSystemProj.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.98
